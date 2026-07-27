@@ -1,11 +1,14 @@
 ## Hi there, I'm Yacov Vladimirovich👋
+
+🤔A bit about me:
 - Hopefully one day working for Apple 🍏
-- Currently learning SwiftUI 
-- I know Lua very well
-- I'm a beginner photographer
+- Currently learning **SwiftUI** 🧑‍💻
+- I know **Lua** very well 😙
+- I'm a beginner photographer 📸
 
-I'm currently learning **Swift UI** and know **Lua** pretty well 😛
+💬Links:
 
+(ill add my links here soon)
 
 
 
