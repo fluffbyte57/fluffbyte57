@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Yacov Vladimirovich👋
+- Hopefully one day working for Apple 🍏
+- Currently learning SwiftUI 
+- I know Lua very well
+- I'm a beginner photographer
+
+I'm currently learning **Swift UI** and know **Lua** pretty well 😛
+
+
+
 
 <!--
 **fluffbyte57/fluffbyte57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
