@@ -2,13 +2,18 @@
 
 🤔A bit about me:
 - Hopefully one day working for Apple 🍏
+- I love aviation ✈️
 - Currently learning **SwiftUI** 🧑‍💻
 - I know **Lua** very well 😙
 - I'm a beginner photographer 📸
 
 💬Links:
 
-(ill add my links here soon)
+[Youtube](https://www.youtube.com/@yacov.vladimirovich)
+
+[Instagram](https://www.instagram.com/yacov_vladimirovich)
+
+[X (Twitter)](https://x.com/fluffbyte57)
 
 
 
