@@ -8,7 +8,7 @@
 
 💬Links:
 
-[Youtube](https://www.youtube.com/@yacov.vladimirovich)
+[Youtube](https://youtube.com/@dumb_nub?si=8FuQ_TB3j8Dh1qTh)
 
 [Instagram](https://www.instagram.com/yacov_vladimirovich)
 
