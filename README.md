@@ -1,10 +1,9 @@
-## Hi there, I'm Yacov Vladimirovich👋
+## Hi there, I'm Yacov Daki👋
 
 🤔A bit about me:
-- Hopefully one day working for Apple 🍏
+- Hopefully one day working at Apple 🍏
 - I love aviation ✈️
-- Currently learning **SwiftUI** 🧑‍💻
-- I know **Lua** very well 😙
+- I know **Luau** very well 😙
 - I'm a beginner photographer 📸
 
 💬Links:
