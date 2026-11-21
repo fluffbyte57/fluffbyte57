@@ -2,7 +2,7 @@
 
 🤔A bit about me:
 - I love aviation ✈️
-- - Learning **SwiftUI** 🍏
+- Learning **SwiftUI** 🍏
 - I know **Luau** very well 😙
 - I'm a photographer 📸
 
