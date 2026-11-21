@@ -1,10 +1,10 @@
 ## Hi there, I'm Yacov Daki👋
 
 🤔A bit about me:
-- Hopefully one day working at Apple 🍏
 - I love aviation ✈️
+- - Learning **SwiftUI** 🍏
 - I know **Luau** very well 😙
-- I'm a beginner photographer 📸
+- I'm a photographer 📸
 
 💬Links:
 
