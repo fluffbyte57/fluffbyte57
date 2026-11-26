@@ -12,7 +12,7 @@
 
 
 
-[![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fluffbyte57&api_domain=hackatime.hackclub.com&custom_title=Hackatime%20Coding%20Stats&layout=simple&theme=dracula)](https://hackatime.hackclub.com/)
+[![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fluffbyte57&api_domain=hackatime.hackclub.com&custom_title=Hackatime%20Coding%20Stats&layout=default&theme=dracula)](https://hackatime.hackclub.com/)
 
 <!--
 **fluffbyte57/fluffbyte57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
