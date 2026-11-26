@@ -8,13 +8,11 @@
 
 💬Links:
 
-[Youtube](https://youtube.com/@dumb_nub?si=8FuQ_TB3j8Dh1qTh)
-
 [Instagram](https://www.instagram.com/yacov_vladimirovich)
 
-[X (Twitter)](https://x.com/fluffbyte57)
 
 
+[![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fluffbyte57&api_domain=hackatime.hackclub.com&custom_title=Hackatime%20Coding%20Stats&layout=simple&theme=dracula)](https://hackatime.hackclub.com/)
 
 <!--
 **fluffbyte57/fluffbyte57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
